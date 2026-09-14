@@ -1,6 +1,6 @@
 def divisible_by_m(n,m):
   """
- integer, integer -> true or false
+ integer, integer -> Boolean
  This function is dividing the integer inputted for m by the integer inputted for n. If there is a remainder that is not
  equal to 0, then the function will have an output of False. If the remainder between the two integers is 0, the function
  will have an output of True.
